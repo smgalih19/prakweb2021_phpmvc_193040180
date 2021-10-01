@@ -6,5 +6,4 @@ class App{
     echo 'OK!';
   }
 }
-
 ?>
